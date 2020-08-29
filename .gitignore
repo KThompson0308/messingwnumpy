@@ -1,0 +1,8 @@
+numpystuff.code-workspace
+.buckd
+buck-out
+.buckconfig.d
+.buckconfig
+buckaroo
+buckaroo_macros.bzl
+
